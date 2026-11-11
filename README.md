@@ -1,4 +1,4 @@
-# Deloitte Client Management System
+# Deloitte Client Management System with Ai based report for MOM in client based meetings
 
 An AI-powered, full-stack enterprise Client Management System built with Spring Boot microservices, React, PostgreSQL, MinIO object storage, and Groq/Llama-3.1 AI.
 
